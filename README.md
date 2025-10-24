@@ -1,2 +1,4 @@
-A custom **SPI (Serial Peripheral Interface) driver** developed from scratch based on the **STM32f103c8t6 datasheet**.  
-This project demonstrates register-level programming, peripheral initialization, and data transfer handling.
+# SPI Driver for ARM Microcontroller
+
+A custom **SPI (Serial Peripheral Interface) driver** developed from scratch based on the **ARM MCU datasheet**.  
+This project demonstrates register-level programming, peripheral initialization, and full-duplex data transfer handling.
